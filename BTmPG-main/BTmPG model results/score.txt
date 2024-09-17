@@ -1,0 +1,10 @@
+BLEU: 12.18	self-BLEU: 23.00	iBLEU: 1.63	unc: 0.25
+BLEU: 7.94	self-BLEU: 14.27	iBLEU: 1.28	unc: 0.13
+BLEU: 5.70	self-BLEU: 9.30	iBLEU: 1.20	unc: 0.00
+BLEU: 5.26	self-BLEU: 7.30	iBLEU: 1.50	unc: 0.04
+BLEU: 4.15	self-BLEU: 5.50	iBLEU: 1.25	unc: 0.04
+BLEU: 3.65	self-BLEU: 4.86	iBLEU: 1.10	unc: 0.00
+BLEU: 3.06	self-BLEU: 4.01	iBLEU: 0.94	unc: 0.00
+BLEU: 2.69	self-BLEU: 3.69	iBLEU: 0.77	unc: 0.00
+BLEU: 2.52	self-BLEU: 3.33	iBLEU: 0.76	unc: 0.00
+BLEU: 2.47	self-BLEU: 2.98	iBLEU: 0.84	unc: 0.00
